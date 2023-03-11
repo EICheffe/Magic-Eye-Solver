@@ -1,6 +1,6 @@
 # Magic-Eye-Solver
 ![screenshot](https://user-images.githubusercontent.com/12947187/224470993-767e9615-bb5e-4605-bad3-31e42df61b24.png)
-This simple HTML page makes it possible to view a Magic Eye image.
+This simple HTML, CSS, Javascript page makes it possible to view a Magic Eye image.
 The image can be uploaded via an upload button, by dragging and dropping it, or by using a URL.
 The image can be moved to the right or left with a slider, all with the mouse or cursor keys.
 Unfortunately, the cursor key function does not work in the Safari browser.
