@@ -1,0 +1,4 @@
+*.html linguist-language=HTML
+*.html linguist-vendored=false
+*.html linguist-language=CSS
+*.html linguist-language=JavaScript
